@@ -109,3 +109,10 @@ HTML 에서는 `<blockquote>` 요소를 사용하여 인용적을 구조화한�
 > "lIft off"
 
 <!-- > 꺽새를 쓰고 " " 안에 쓰고 싶은 말을 쓰면 인용절로 나온다. -->
+
+### 표 
+Job Tyoe | Role 
+---|---
+Planner | Plan
+Designer | Design
+Developer | Develop
