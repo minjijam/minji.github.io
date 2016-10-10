@@ -87,5 +87,6 @@ $은 순차적으로 숫자를 내려가게 해줌
 
 ![ebichu] (http://file.instiz.net/data/cached_img/upload/6/0/e/60eefe85012c207d6ad084a63bc387eb.png)
 
+![ebichu] (images/ebichu.png)
 
 
