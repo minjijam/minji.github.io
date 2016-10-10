@@ -95,6 +95,17 @@ $은 순차적으로 숫자를 내려가게 해줌
 <a href="http://iropke.com">이롭게 에이전시</a>
 ```
 
+<!-- 그냥 링크만 보여주고 싶으면 그냥 웹 링크만 적으면 된다.  -->
+
 - [에비츄 검색] (https://www.google.co.kr/search?q=%EC%97%90%EB%B9%84%EC%B8%84&newwindow=1&espv=2&biw=1440&bih=755&source=lnms&sa=X&ved=0ahUKEwjp6ILqmtDPAhVO42MKHRAyDvQQ_AUIBSgA&dpr=1)
 
+### 인용 구문 
 
+인용절은 보통 들여쓰기를 통해 사용자에게 일반 문장과 구분해준다.<br>
+HTML 에서는 `<blockquote>` 요소를 사용하여 인용적을 구조화한다. 
+<!-- ` ` 안에 코드문법을 쓰면 코드로 인식을 안한다  -->
+
+> "Beutify"<br>
+> "lIft off"
+
+<!-- > 꺽새를 쓰고 " " 안에 쓰고 싶은 말을 쓰면 인용절로 나온다. -->
