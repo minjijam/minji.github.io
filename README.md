@@ -74,6 +74,17 @@ $은 순차적으로 숫자를 내려가게 해줌
 <img src="http://file.instiz.net/data/cached_img/upload/6/0/e/60eefe85012c207d6ad084a63bc387eb.png" alt="ebichu">
 ```
 
+<!-- 콘트롤 판넬 부르는게 cmmnd + shift + P
+누르고 Emmet update image size 를 설치한다 
+그리고 ctrl + shift + I 를 누르면 바로 이미지의 사이즈가 적어진다. -->
+
+<!-- 숫자들 바로 나누기 곱하기 하려면 예를들어서> 300/3 을 쓰고 
+수식을 붙이고 cmmnd + shift + Y 를 누르면 된다. -->
+
+<img src="http://file.instiz.net/data/cached_img/upload/6/0/e/60eefe85012c207d6ad084a63bc387eb.png" alt="ebichu" width="128.67" height="97.33">
+
+<!-- <!> 표 뒤에 () 괄호 안에 이미지 링크를 적으면 이미지가 나온다 [ ]대괄호 안에는 파일 이름을 적어야한다  -->
+
 ![ebichu] (http://file.instiz.net/data/cached_img/upload/6/0/e/60eefe85012c207d6ad084a63bc387eb.png)
 
 
