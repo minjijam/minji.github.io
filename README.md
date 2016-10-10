@@ -112,13 +112,13 @@ HTML 에서는 `<blockquote>` 요소를 사용하여 인용적을 구조화한�
 
 <table>
 	<tr>
-		<th>Job Type</th>Role<th>
+		<th>Job Type</th><th>Role</th>
 	</tr>
 </table>
 
 <table>
 	<tr>
-		<td>Plabber</td><td>Plner</td>
+		<td>Plabber</td><td>Planer</td>
 	</tr>
 </table>
 
