@@ -59,3 +59,11 @@ $은 순차적으로 숫자를 내려가게 해줌
 1. item2
 1. item3
 
+-
+
+# To do
+- [x] Study Markdown
+- [ ] Make "index.html"
+
+<!-- [ ] 안에 x 를 넣으면 바로 체크박스가 생김  -->
+
