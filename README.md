@@ -6,6 +6,8 @@
 
 ## Markdown 문법 사용법
 
+### 제목 
+
 ```html
 <h1>heading 1</h1>
 <h2>heading 2</h2>
@@ -23,3 +25,36 @@
 #### Markdown H4
 ##### Markdown H5
 ###### Markdown H6
+
+### 목록
+
+<!-- 
+ul>li{item$}*3 
+>은 자식요소
+$은 순차적으로 숫자를 내려가게 해줌 
+*은 몇개 곱하기  -->
+
+```html 
+<ul>
+	<li>item1</li>
+	<li>item2</li>
+	<li>item3</li>
+</ul>
+
+<ol>
+	<li>item</li>
+	<li>item</li>
+	<li>item</li>
+</ol>
+```
+
+<!-- 비순차목록은 - 으로만 하면 된다.   -->
+-item1
+-item2
+-item3
+
+<!-- 순차목록은 1. 만 쓰면 된다.  -->
+1. item1
+1. item2
+1, item3
+
