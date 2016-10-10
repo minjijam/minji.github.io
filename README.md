@@ -110,6 +110,24 @@ HTML 에서는 `<blockquote>` 요소를 사용하여 인용적을 구조화한�
 
 <!-- > 꺽새를 쓰고 " " 안에 쓰고 싶은 말을 쓰면 인용절로 나온다. -->
 
+<table>
+	<tr>
+		<th>Job Type</th>Role<th>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<td>Plabber</td><td>Plner</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<td>Designer</td><td>Design</td>
+	</tr>
+</table>
+
 ### 표 
 Job Tyoe | Role 
 ---|---
