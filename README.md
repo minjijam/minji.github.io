@@ -68,3 +68,13 @@ $은 순차적으로 숫자를 내려가게 해줌
 
 <!-- [ ] 안에 x 를 넣으면 바로 체크박스가 생김  -->
 
+### 이미지
+
+```html
+<img src="http://file.instiz.net/data/cached_img/upload/6/0/e/60eefe85012c207d6ad084a63bc387eb.png" alt="ebichu">
+```
+
+![ebichu] (http://file.instiz.net/data/cached_img/upload/6/0/e/60eefe85012c207d6ad084a63bc387eb.png)
+
+
+
